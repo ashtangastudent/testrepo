@@ -1,0 +1,2 @@
+# this file is added to the child_branch_1
+print("Inside child branch")
