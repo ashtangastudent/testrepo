@@ -1,2 +1,2 @@
 # testrepo
-Learning Git for work
+Learning Git for work with Coursera class
